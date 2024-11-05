@@ -14,3 +14,11 @@ To install the required packages, run:
 
 ```bash
 npm install
+
+
+## Start
+To run:
+
+```bash
+npm start
+
